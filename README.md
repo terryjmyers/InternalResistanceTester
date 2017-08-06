@@ -3,7 +3,10 @@ Lithium Battery Internal Resistance Tester
 
 Internal Battery Reistance Tester
 Terry Myers 
-Schematic: https://easyeda.com/terryjmyers/InternalResistanceTester-3aa0731b58d94ed5bb953af61ea30eb0
+
+Schematic: 
+
+https://easyeda.com/terryjmyers/InternalResistanceTester-3aa0731b58d94ed5bb953af61ea30eb0
 
 
 Connect Battery to a 0.1R shunt resistor to an XL6009 boost converter
