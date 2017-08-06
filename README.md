@@ -1,11 +1,7 @@
 # InternalResistanceTester
 Lithium Battery Internal Resistance Tester
 
-Internal Battery Reistance Tester
-Terry Myers 
-
 Schematic: 
-
 https://easyeda.com/terryjmyers/InternalResistanceTester-3aa0731b58d94ed5bb953af61ea30eb0
 
 
